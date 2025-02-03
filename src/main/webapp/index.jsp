@@ -23,7 +23,7 @@
     </div>
     
     <div class="section">
-        <h2>Hi i am neeraj akhila</h2>
+        <h2>Hi i am krishang dheerah reddy</h2>
         <p>DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the development lifecycle while delivering high-quality software continuously.</p>
     </div>
     
